@@ -28,5 +28,5 @@ I developed this using Restify to connect to my API where the current temperatur
 
 There are 3 parameters: the url represents the address to the API where the updated temperature will be received, the user and password are needed for API user authorization purposes.
 
-6. That's it! Arduino will get the current temperature in the room, and this app will output to the console and send the updated information to the API.
+That's it! Arduino will get the current temperature in the room, and this app will output to the console and send the updated information to the API.
 
